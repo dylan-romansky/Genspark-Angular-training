@@ -8,7 +8,7 @@
 .header	{
 	justify-content: space-around;
 	text-align: center;
-	background: #aaaaaaaa;
+	background: #aaaaaaff;
 	margin-top: -22px;
 	margin-bottom: 0px;
 }
@@ -16,12 +16,12 @@
 .footer	{
 	justify-content: space-around;
 	text-align: center;
-	background: #aaaaaaaa;
+	background: #aaaaaaff;
 	margin-top: -16px;
 	padding: 30px;
 }
 
 article	{
-	background: #55555555;
+	background: #888888ff;
 	margin-bottom: 0px;
 }

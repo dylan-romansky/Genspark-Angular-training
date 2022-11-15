@@ -1,7 +1,19 @@
 .navbar	{
 	float: left;
 	margin-top: 30px;
-	background: #88888888;
+	background: #000000ff;
 	list-style: none;
-	padding: 5px;
+	padding: 10px;
+	height: 280px;
+	margin-bottom: 0px;
+}
+
+.navbar a{
+	text-decoration: none;
+	color: white;
+	font-size: 2em;
+}
+
+.navbar a:hover	{
+	background: #444444ff;
 }
