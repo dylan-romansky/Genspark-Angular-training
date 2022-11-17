@@ -1,0 +1,17 @@
+h1	{
+	text-align: center;
+	padding: auto;
+}
+
+form {
+	width: 332px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	border: 2px solid black;
+}
+
+input {
+	margin-right: 15px;
+	margin-bottom: 3px;
+}
